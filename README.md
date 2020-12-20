@@ -5,6 +5,7 @@ Student Login is PHP based web application where teacher can update student's re
 2. Teacher can update Marks and result of Student.
 3. Student can Check their result and attendance.
 4. The web app will read from and write to a Table `admin, attendence, result, student, teacher, totalclass, totalmarks `
+5. Import `php.sql`into data base.
 
 ## Usage
 
