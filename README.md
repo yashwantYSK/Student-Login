@@ -37,7 +37,7 @@ Student Login is PHP based web application where teacher can update student's re
   1. Teacher Need to Login by their id and password.
   2. Teacher can add Attendence and marks by their Reg. ID and their name.
        
-       - Teacher can only update marks and result of student, which is alredy add by admin
+       - Teacher can only update marks and result of student, which is alredy added by admin
        - Teacher can update upto max marks and max no of class which is updated by admin
       
       
