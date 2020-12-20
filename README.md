@@ -10,7 +10,7 @@ Student Login is PHP based web application where teacher can update student's re
 
 ### 1. Admin
 	``` ID : 158
-	    Password : Yashwant1234#```
+	    Password : 1234```
 	
   1. Admin Need to login by their id and password.
   2. Admin can add student/teacher by Reg. No, Name and Password.
@@ -20,8 +20,8 @@ Student Login is PHP based web application where teacher can update student's re
 
 
 ### 2. Student
-	``` ID: 1571087018
-	    Password: Yashwant@123```
+	``` ID: 157
+	    Password: 1234```
 	    
       1. Student Need to login by their id and password
       2. Student can See their result and Attendece
@@ -31,8 +31,8 @@ Student Login is PHP based web application where teacher can update student's re
 ### 3. Teacher
 
 	```
-	ID: 1571087013
-	Password: Yashwnat@123```
+	ID: 15
+	Password: 1234```
 	
   1. Teacher Need to Login by their id and password.
   2. Teacher can add Attendence and marks by their Reg. ID and their name.
