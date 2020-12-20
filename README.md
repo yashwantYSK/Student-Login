@@ -1,5 +1,5 @@
 # Student-Login
-Student Login is PHP based web application where teacher can update student's result and marks, admin can add teacher and student. They can update total marks and total number of class.
+Student Login is a PHP-based web application where the teacher will update a student's results and marks, admin will add teacher and student. Admin also updates the total marks and the total number of classes.
 # Student Login, By Yashwant Kumar
 1. Admin can add student, teacher, Total marks and Total Number of class.
 2. Teacher can update Marks and result of Student.
