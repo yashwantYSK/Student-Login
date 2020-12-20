@@ -1,0 +1,202 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    width: 100%;
+    height:80px;
+    background-color: #2c333d;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    float: right;
+    width: 140px;
+    height: 60px;
+    font-size: 20px;
+    line-height: 80px;
+   /*border: 1px solid black;*/
+    text-align: center;
+}
+ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: aliceblue;
+    display: block;
+}
+ul li:hover{
+    border-bottom: 2px solid orange;
+    transition: 1s all ease;
+}
+.Tlogin h2{
+    margin-top: 40px;
+    text-align: center;
+    color: #62f442;
+    margin-bottom: 40px;
+}
+.Tlogin p{
+margin-top: 5px;
+width: 35opx;
+margin-left: 20px;
+font-size: 20px;
+}
+.Tlogin input{
+    width: 360px;
+    height:30px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: 2px solid orange;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.Tlogin{
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 400px;
+    height:400px;
+    background-color: #2c2c3d;
+    border: 2px solid orange;
+    border-radius: 20px;
+}
+.left{
+    width: 48%;
+    float: left;
+}
+.right{
+    width: 48%;
+    float: right;
+}
+.subbutton{
+    background-color:#28C677; 
+}
+.student a{
+    text-decoration: none;
+    margin-left: 30px;
+    position: relative;
+    top:60px;
+    text-transform: uppercase;
+    color: white;
+
+}
+.Attendence{
+    width: 180px;
+    height: 150px;
+    border: 2px solid orange;
+    border-radius: 20px;
+    background-color: #2c2c3d;
+    float: left;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.Result{
+    width: 180px;
+    height: 150px;
+    border: 2px solid orange;
+    border-radius: 20px;
+    background-color: #2c2c3d;
+    float: left;   
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.Result a{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 60px;
+    color: white;
+}
+.satten h2{
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+}
+.satten h3{
+padding: 8px;
+}
+.satten{
+       margin-top: 100px;
+    margin-left: 40%;
+    width: 400px;
+    height:300px;
+    background-color: #7c85d6;
+    border: 2px solid orange;
+    border-radius: 20px;
+}
+table{
+    margin-left:  25px;
+    margin-top: 5px;
+}
+td{
+padding: 10px;
+}
+.enterattendence h2{
+    margin-top: 40px;
+    text-align: center;
+    color: #62f442;
+    margin-bottom: 40px;
+}
+.enterattendence p{
+margin-top: 5px;
+width: 35opx;
+margin-left: 20px;
+font-size: 20px;
+}
+.enterattendence input{
+    width: 460px;
+    height:30px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: 2px solid orange;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.enterattendence{
+    margin-top: 40px;
+    margin-left: 35%;
+    width: 500px;
+    height:550px;
+    background-color: #2c2c3d;
+    border: 2px solid orange;
+    border-radius: 20px;
+}
+.message{
+    margin-top: 30px;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    width: 100%;
+}
+.name{
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+th{
+    padding: 10px;
+}
+.l1{
+    margin-left: 30%;
+}
+.admincon a{
+    position: relative;
+    top:35%;
+}
+footer{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    margin-top: 80vh;
+}
+footer p{
+color: white;
+}
+body{
+    background-image: url('image/bac.jpg');
+
+}
+.logo img{
+    height: 90px;
+    float: left;
+    margin-left: 5%;
+}
